@@ -2,9 +2,9 @@
 # vi: set ft=ruby :
 
 Vagrant.configure(2) do |config|
-  config.vm.box = "bento/ubuntu-16.04" # 16.04 LTS
+  config.vm.box = "bento/ubuntu-20.04"
   config.vm.provider "virtualbox" do |vb|
-        vb.memory = "1516"
+        vb.memory = "6144"
   end
 
   # 3-node configuration - Region A
@@ -19,4 +19,5 @@ Vagrant.configure(2) do |config|
       n.vm.network "private_network", ip: "172.16.1.#{i+100}"
     end
   end
+
 end

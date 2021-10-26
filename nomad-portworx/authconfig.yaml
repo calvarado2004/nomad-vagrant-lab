@@ -1,0 +1,5 @@
+name: Carlos Alvarado
+email: camartinez@purestorage.com
+sub: camartinez@purestorage.com/camartinez
+roles: ["system.admin"]
+groups: ["*"]

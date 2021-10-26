@@ -6,9 +6,9 @@ server {
   job_gc_threshold = "2m"
 }
 
-datacenter = "vancouver"
+datacenter = "MountainView"
 
-region = "west"
+region = "US-West-2"
 
 advertise {
   http = "{{ GetInterfaceIP `eth1` }}"
@@ -26,4 +26,13 @@ client {
   enabled           = true
   network_interface = "eth1"
   servers           = ["172.16.1.201", "172.16.1.202", "172.16.1.203"]
+}
+
+plugin "docker" {
+  config {
+    allow_privileged = true
+    volumes {
+      enabled      = true
+    }
+  }
 }
