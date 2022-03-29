@@ -73,7 +73,7 @@ job "portworx" {
 
       # container config
       config {
-        image        = "portworx/oci-monitor:2.8.0"
+        image        = "portworx/oci-monitor:2.9.1.3"
         network_mode = "host"
         ipc_mode = "host"
         privileged = true
