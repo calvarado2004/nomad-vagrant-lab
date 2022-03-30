@@ -26,6 +26,11 @@ client {
   enabled           = true
   network_interface = "eth1"
   servers           = ["172.16.1.101", "172.16.1.102", "172.16.1.103"]
+  host_volume "mysql" {
+    path      = "/srv"
+    read_only = false
+  }
+
 }
 
 plugin "docker" {

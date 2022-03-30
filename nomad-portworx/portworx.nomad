@@ -89,6 +89,7 @@ job "portworx" {
             "-k", "consul://127.0.0.1:8500",
             "-kvdb_dev", "/dev/sdc",
             "-secret_type", "vault",
+            "-cluster_secret_key", "pwx/nomad-portworx-vagrant/px_secret",
             "--endpoint", "0.0.0.0:9015"
         ]
 
