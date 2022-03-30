@@ -84,9 +84,9 @@ nomad node status
 open http://172.16.1.101:4646
 ```
 
-![Nomad Cluster](/images/Nomad01.png)\
+![Nomad Cluster](/images/Nomad01.png)
 
-![Nomad Job](/images/NomadJob.png)\
+![Nomad Job](/images/NomadJob.png)
 
 
 ## Vault server
@@ -129,7 +129,7 @@ Portworx secrets locations
 http://172.16.1.101:8200/ui/vault/secrets/secret/list/pwx/nomad-portworx-vagrant/
 
 
-![Vault on Nomad](/images/Vault.png)\
+![Vault on Nomad](/images/Vault.png)
 
 
 # Portworx
@@ -141,7 +141,7 @@ https://docs.portworx.com/install-with-other/nomad/installation/install-as-a-nom
 The customized Portworx job is the file /vagrant/nomad-portworx/portworx.nomad mounted on your nodes.
 
 
-![Nomad and Portworx](/images/NomadPX.png)\
+![Nomad and Portworx](/images/NomadPX.png)
 
 
-![Nomad and Portworx](/images/PX-Encrypted.png)\
+![Nomad and Portworx](/images/PX-Encrypted.png)
