@@ -3,3 +3,4 @@
 *.log
 *.scratch
 disks
+nomad-vault/nohup.out
