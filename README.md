@@ -39,6 +39,30 @@ To start your Nomad cluster just do this:
 * Launch Nomad using the shell script which is `sudo <nodename>.sh` where `<nodename>` is the node you are running on (e.g. `sudo launch-a-1.sh`)
 * Connect to the remaining two nodes (nomad-a-2, nomad-a-3) and repeat the process of changing to the /vagrant folder and running the appropriate launch script
 
+```
+vagrant up
+
+vagrant ssh nomad-a-1
+sudo /vagrant/launch-a-1.sh
+exit
+
+vagrant ssh nomad-a-2
+sudo /vagrant/launch-a-2.sh
+exit
+
+vagrant ssh nomad-a-3
+sudo /vagrant/launch-a-3.sh
+exit
+
+vagrant status
+
+Current machine states:
+
+nomad-a-1                 running (virtualbox)
+nomad-a-2                 running (virtualbox)
+nomad-a-3                 running (virtualbox)
+```
+
 The first node in each of the set of three will begin as the leader.  The other two node launch scripts have a `nomad server join` command to join the cluster with the first node.  
 
 Once you're used to the commmands, you can start and stop as much as needed.  
@@ -60,3 +84,50 @@ nomad node status
 open http://172.16.1.101:4646
 ```
 
+## Vault server
+
+* Install Vault on your node if is the first time
+
+```
+vagrant ssh nomad-a-1
+curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
+sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
+sudo apt-get update && sudo apt-get install vault
+
+```
+
+* Enter into nomad-a-1 and unseal Vault
+
+```
+sudo /vagrant/start-vault.sh
+
+open http://172.16.1.101:8200
+
+
+```
+
+Token: s.bDedFc6AEyZiywySWAQkmsLg
+
+Unseal Vault vagrant nomad
+
+Key 1
+nDc2NwDs/WZAOK/sB5xOyCDJTdYPerOivHn7Kji3uKfN
+
+Key 2
+5XOloZhq3uMZh36/jpAOEGBqkhcrReKtnz/rgyB1hQaQ
+
+Key 3
+PRguU5LtXKiukM+lkFUDXRLErHD5g4Kkeo+jhlUONDBo
+
+Portworx secrets locations
+
+http://172.16.1.101:8200/ui/vault/secrets/secret/list/pwx/nomad-portworx-vagrant/
+
+
+# Portworx
+
+Follow this guide
+
+https://docs.portworx.com/install-with-other/nomad/installation/install-as-a-nomad-job/
+
+The customized Portworx job is the file /vagrant/nomad-portworx/portworx.nomad mounted on your nodes.
