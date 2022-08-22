@@ -104,7 +104,7 @@ sudo apt-get update && sudo apt-get install vault
 * Enter into nomad-a-1 and unseal Vault
 
 ```
-sudo /vagrant/start-vault.sh
+sudo /vagrant/nomad-vault/start-vault.sh
 
 open http://172.16.1.101:8200
 

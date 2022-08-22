@@ -6,9 +6,11 @@ job "mysql-server" {
     count = 1
 
     volume "mysql" {
-      type            = "host"
+      attachment_mode = "file-system"
+      access_mode     = "single-node-writer"
+      type            = "csi"
       read_only       = false
-      source          = "mysql"
+      source          = "volume-3"
     }
 
     network {
@@ -31,7 +33,7 @@ job "mysql-server" {
 
       volume_mount {
         volume      = "mysql"
-        destination = "/srv"
+        destination = "/mnt/mysql"
         read_only   = false
       }
 
@@ -44,7 +46,7 @@ job "mysql-server" {
 
       config {
         image = "hashicorp/mysql-portworx-demo:latest"
-        args  = ["--datadir", "/srv/mysql"]
+        args  = ["--datadir", "/mnt/mysql/db"]
         ports = ["db"]
       }
 

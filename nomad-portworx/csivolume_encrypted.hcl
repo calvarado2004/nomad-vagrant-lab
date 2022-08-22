@@ -14,8 +14,7 @@ capability {
 }
 
 secrets {
-  secret_key = "secret/pwx/nomad-portworx-vagrant/px_secret"
-  auth-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNhbWFydGluZXpAcHVyZXN0b3JhZ2UuY29tIiwiZXhwIjoxNjQ4NjYyNDg1LCJncm91cHMiOlsiKiJdLCJpYXQiOjE2NDg1NzYwODUsImlzcyI6Im5vbWFkLWEudXMtZWFzdC0xIiwibmFtZSI6IkNhcmxvcyBBbHZhcmFkbyIsInJvbGVzIjpbInN5c3RlbS5hZG1pbiJdLCJzdWIiOiJjYW1hcnRpbmV6QHB1cmVzdG9yYWdlLmNvbS9jYW1hcnRpbmV6In0.KrWX3XTfpPJ89jdNoDzKt_e1c_ElhloG5qLDXGwZojM"
+  auth-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNhbWFydGluZXpAcHVyZXN0b3JhZ2UuY29tIiwiZXhwIjoxNjg0MjcwNDg1LCJncm91cHMiOlsiKiJdLCJpYXQiOjE2NTI3MzQ0ODUsImlzcyI6Im5vbWFkLWEudXMtZWFzdC0xIiwibmFtZSI6IkNhcmxvcyBBbHZhcmFkbyIsInJvbGVzIjpbInN5c3RlbS5hZG1pbiJdLCJzdWIiOiJjYW1hcnRpbmV6QHB1cmVzdG9yYWdlLmNvbS9jYW1hcnRpbmV6In0.KmBGajRNW1B2TpV69zm1jrDq3YjUHvJDy2UR9TRSo20"
 }
 
 parameters {
@@ -24,5 +23,6 @@ parameters {
   io_priority = "high"
   repl = "3"
   cow_ondemand = "false"
-  secret_key = "pwx/nomad-portworx-vagrant/px_secret"
+  secret_key = "px-cluster-key"
+  label = "mysql-volume=true"
 }

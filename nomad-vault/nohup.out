@@ -5369,3 +5369,1887 @@
 2022-03-30T15:16:28.356Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
 2022-03-30T15:21:28.361Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
 2022-03-30T15:26:28.362Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:31:28.369Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:36:28.372Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:41:28.374Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:46:28.376Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:51:28.379Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T15:56:28.381Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:01:28.382Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:06:28.384Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:11:28.385Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:16:28.387Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:21:28.388Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:26:28.390Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:31:28.395Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:36:28.396Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:41:28.397Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:46:28.397Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:51:28.398Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T16:56:28.399Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:01:28.399Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:06:28.400Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:11:28.401Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:16:28.403Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:21:28.403Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:26:28.407Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:31:28.411Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:36:28.413Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:41:28.414Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:46:28.414Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:51:28.423Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T17:56:28.423Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:01:28.424Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:06:28.425Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:11:28.426Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:16:28.428Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:21:28.430Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:26:28.432Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:31:28.433Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:36:28.434Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:41:28.438Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:46:28.440Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:51:28.442Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T18:56:28.446Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:01:28.448Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:06:28.451Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:11:28.453Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:16:28.453Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:21:28.455Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:26:28.459Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:31:28.461Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:36:28.461Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:41:28.463Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:46:28.464Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:51:28.465Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T19:56:28.470Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:01:28.471Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:06:28.472Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:11:28.472Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:16:28.473Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:21:28.474Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:26:28.475Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:31:28.476Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:36:28.484Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:41:28.486Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:46:28.487Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:51:28.488Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T20:56:28.489Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:01:28.491Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:06:28.496Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:11:28.498Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:16:28.499Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:21:28.499Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:26:28.501Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:31:28.502Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:36:28.505Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:41:28.506Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:46:28.508Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:51:28.508Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T21:56:28.509Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:01:28.509Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:06:28.510Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:11:28.511Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:16:28.512Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:21:28.515Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:26:28.517Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:31:28.518Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:36:28.519Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:41:28.524Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:46:28.524Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:51:28.525Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T22:56:28.526Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:01:28.527Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:06:28.529Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:11:28.535Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:16:28.536Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:21:28.537Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:26:28.538Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:31:28.541Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:36:28.543Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:41:28.543Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:46:28.544Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:51:28.548Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-30T23:56:28.550Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:01:28.551Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:06:28.552Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:11:28.561Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:16:28.565Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:21:28.567Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:26:28.586Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:31:28.588Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:36:28.590Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:41:28.592Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:46:28.592Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:51:28.595Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T00:56:28.596Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:01:28.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:06:28.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:11:28.598Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:16:28.600Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:21:28.603Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:26:28.605Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:31:28.606Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:36:28.607Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:41:28.608Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:46:28.609Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:51:28.611Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T01:56:28.617Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:01:28.618Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:06:28.619Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:11:28.622Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:16:28.623Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:21:28.624Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:26:28.626Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:31:28.627Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:36:28.629Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:41:28.632Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:46:28.633Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:51:28.634Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T02:56:28.636Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:01:28.637Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:06:28.639Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:11:28.639Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:16:28.643Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:21:28.646Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:26:28.647Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:31:28.649Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:36:28.650Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:41:28.652Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:46:28.653Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:51:28.655Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T03:56:28.664Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:01:28.668Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:06:28.669Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:11:28.670Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:16:28.672Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:21:28.674Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:26:28.675Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:31:28.676Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:36:28.677Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:41:28.681Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:46:28.682Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:51:28.684Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T04:56:28.686Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:01:28.687Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:06:28.694Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:11:28.698Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:16:28.704Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:21:28.705Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:26:28.707Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:31:28.708Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:36:28.709Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:41:28.711Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:46:28.713Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:51:28.714Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T05:56:28.717Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:01:28.718Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:06:28.722Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:11:28.726Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:16:28.728Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:21:28.729Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:26:28.732Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:31:28.733Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:36:28.735Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:41:28.755Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:46:28.757Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:51:28.759Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T06:56:28.760Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:01:28.761Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:06:28.762Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:11:28.763Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:16:28.765Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:21:28.766Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:26:28.767Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:31:28.771Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:36:28.772Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:41:28.774Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:46:28.775Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:51:28.780Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T07:56:28.784Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:01:28.785Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:06:28.786Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:11:28.787Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:16:28.788Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:21:28.790Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:26:28.791Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:31:28.797Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:36:28.804Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:41:28.806Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:46:28.810Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:51:28.811Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T08:56:28.812Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:01:28.815Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:06:28.817Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:11:28.820Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:16:28.822Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:21:28.823Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:26:28.826Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:31:28.827Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:36:28.828Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:41:28.829Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:46:28.831Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:51:28.832Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T09:56:28.834Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:01:28.836Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:06:28.837Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:11:28.838Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:16:28.839Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:21:28.841Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:26:28.847Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:31:28.848Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:36:28.848Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:41:28.850Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:46:28.851Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:51:28.852Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T10:56:28.853Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T11:01:28.857Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T11:06:28.858Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T11:11:28.859Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T11:16:28.861Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T11:21:28.862Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T12:48:31.977Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T12:53:31.982Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T12:58:31.984Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:03:31.986Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:08:31.988Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:13:31.990Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:18:31.993Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:23:31.995Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:28:31.996Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:33:31.998Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:38:31.999Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:43:32.002Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:48:32.003Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:53:32.004Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T13:58:32.007Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:03:32.012Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:08:32.013Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:13:32.013Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:18:32.015Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:23:32.016Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:28:32.017Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:33:32.018Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:38:32.018Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:43:32.019Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:48:32.022Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:53:32.023Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T14:58:32.024Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:03:32.025Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:08:32.026Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:13:32.027Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:18:32.028Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:23:32.030Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:28:32.035Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:33:32.046Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:38:32.048Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:43:32.059Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:48:32.060Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:53:32.066Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T15:58:32.068Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:03:32.074Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:08:32.082Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:13:32.083Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:18:32.085Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:23:32.087Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:28:32.089Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:33:32.090Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:38:32.093Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:43:32.094Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:48:32.096Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:53:32.100Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T16:58:32.102Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:03:32.104Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:08:32.109Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:13:32.110Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:18:32.111Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:23:32.116Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:28:32.116Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:33:32.118Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:38:32.119Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:43:32.121Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:48:32.123Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:53:32.133Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T17:58:32.135Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:03:32.136Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:08:32.138Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:13:32.139Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:18:32.143Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:23:32.145Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:28:32.147Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:33:32.149Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:38:32.150Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:43:32.152Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:48:32.154Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:53:32.156Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T18:58:32.158Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:03:32.159Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:08:32.160Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:13:32.160Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:18:32.161Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:23:32.163Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:28:32.163Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:33:32.164Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:38:32.166Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+Error initializing storage of type raft: failed to create fsm: failed to open bolt file: timeout
+2022-03-31T19:39:46.920Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-03-31T19:43:32.167Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:48:32.168Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:53:32.170Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T19:58:32.172Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:03:32.176Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:08:32.178Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:13:32.180Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:18:32.181Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:23:32.182Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:28:32.183Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:33:32.184Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:38:32.185Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:43:32.188Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:48:32.190Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:53:32.191Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T20:58:32.192Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:03:32.193Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:08:32.194Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:13:32.195Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:18:32.197Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:23:32.202Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:28:32.203Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:33:32.204Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:38:32.204Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:43:32.206Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:48:32.206Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:53:32.208Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T21:58:32.209Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:03:32.216Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:08:32.217Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:13:32.218Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:18:32.220Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:23:32.222Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:28:32.223Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:33:32.227Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:38:32.230Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:43:32.232Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:48:32.233Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:53:32.234Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T22:58:32.236Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:03:32.236Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:08:32.244Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:13:32.248Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:18:32.249Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:23:32.251Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:28:32.253Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:33:32.253Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:38:32.254Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:43:32.255Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:48:32.256Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:53:32.256Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-03-31T23:58:32.258Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:03:32.260Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:08:32.266Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:13:32.269Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:18:32.274Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:23:32.275Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:28:32.276Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:33:32.278Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:38:32.279Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:43:32.280Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:48:32.283Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:53:32.284Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T00:58:32.285Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:03:32.287Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:08:32.288Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:13:32.289Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:18:32.290Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:23:32.291Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:28:32.296Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:33:32.297Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:38:32.298Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:43:32.302Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:48:32.304Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:53:32.306Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T01:58:32.307Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:03:32.308Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:08:32.309Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:13:32.310Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:18:32.311Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:23:32.313Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:28:32.314Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:33:32.315Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:38:32.317Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:43:32.318Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:48:32.319Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:53:32.321Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T02:58:32.322Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:03:32.325Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:08:32.328Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:13:32.330Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:18:32.332Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:23:32.338Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:28:32.345Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:33:32.345Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:38:32.349Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:43:32.351Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:48:32.352Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:53:32.354Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T03:58:32.355Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:03:32.359Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:08:32.360Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:13:32.362Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:18:32.365Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:23:32.366Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:28:32.367Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:33:32.368Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:38:32.369Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:43:32.370Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:48:32.370Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:53:32.371Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T04:58:32.374Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:03:32.376Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:08:32.376Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:13:32.377Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:18:32.378Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:23:32.379Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:28:32.380Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:33:32.381Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:38:32.381Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:43:32.382Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:48:32.383Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:53:32.385Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T05:58:32.386Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:03:32.387Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:08:32.389Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:13:32.389Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:18:32.391Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:23:32.399Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:28:32.400Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:33:32.401Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:38:32.402Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:43:32.403Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:48:32.404Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:53:32.408Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T06:58:32.411Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:03:32.413Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:08:32.415Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:13:32.418Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:18:32.419Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:23:32.420Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:28:32.422Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:33:32.423Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:38:32.424Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:43:32.424Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:48:32.427Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:53:32.427Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T07:58:32.429Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:03:32.429Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:08:32.430Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:13:32.434Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:18:32.435Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:23:32.435Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:28:32.436Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:33:32.437Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:38:32.439Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:43:32.440Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:48:32.441Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:53:32.442Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T08:58:32.444Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:03:32.446Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:08:32.446Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:13:32.450Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:18:32.452Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:23:32.455Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:28:32.456Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:33:32.457Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:38:32.458Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:43:32.458Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:48:32.459Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:53:32.460Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T09:58:32.462Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:03:32.462Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:08:32.464Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:13:32.469Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:18:32.470Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:23:32.472Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:28:32.473Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:33:32.475Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:38:32.476Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:43:32.477Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:48:32.480Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:53:32.481Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T10:58:32.482Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T11:03:32.483Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T11:08:32.484Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T11:13:32.486Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T11:18:32.487Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T11:23:32.487Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:04:59.443Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:09:59.445Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:14:59.446Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:19:59.448Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:24:59.449Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:29:59.450Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:34:59.451Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:39:59.453Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:44:59.455Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:49:59.456Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:54:59.458Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T13:59:59.458Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:04:59.463Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:09:59.469Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:14:59.475Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:45:17.183Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:50:17.184Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T14:55:17.187Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:00:17.188Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:05:17.188Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:10:17.196Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:15:17.197Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:20:17.198Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:25:17.200Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:30:17.202Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:35:17.210Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:40:17.211Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:45:17.212Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:50:17.215Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T15:55:17.216Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:00:17.217Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:05:17.219Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:10:17.220Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:15:17.224Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:20:17.225Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:25:17.226Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:30:17.228Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:35:17.230Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:40:17.233Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:45:17.234Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:50:17.236Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T16:55:17.237Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:00:17.244Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:05:17.245Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:10:17.247Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:15:17.249Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:20:17.250Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:25:17.252Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:30:17.255Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:35:17.256Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:40:17.258Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:45:17.260Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:50:17.261Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T17:55:17.263Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:00:17.264Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:05:17.264Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:10:17.266Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:15:17.269Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:20:17.270Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:25:17.277Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:30:17.279Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:35:17.280Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:40:17.283Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:45:17.285Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:50:17.294Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T18:55:17.295Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:00:17.296Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:05:17.298Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:10:17.299Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:15:17.300Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:20:17.303Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:25:17.305Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:30:17.307Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:35:17.308Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:40:17.310Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:45:17.312Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:50:17.320Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T19:55:17.329Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:00:17.331Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:05:17.334Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:10:17.335Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:15:17.336Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:20:17.338Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:25:17.339Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:30:17.345Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:35:17.346Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:40:17.347Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:45:17.349Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:50:17.350Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T20:55:17.351Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:00:17.352Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:05:17.354Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:10:17.354Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:15:17.355Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:20:17.360Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:25:17.361Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:30:17.361Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:35:17.362Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:40:17.363Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:45:17.365Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:50:17.366Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T21:55:17.367Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:00:17.367Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:05:17.368Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:10:17.372Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:15:17.373Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:20:17.374Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:25:17.376Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:30:17.377Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:35:17.377Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:40:17.378Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:45:17.384Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:50:17.385Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T22:55:17.387Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:00:17.388Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:05:17.389Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:10:17.392Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:15:17.394Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:20:17.395Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:25:17.396Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:30:17.398Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:35:17.401Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:40:17.401Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:45:17.402Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:50:17.404Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-01T23:55:17.404Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:00:17.405Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:05:17.408Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:10:17.411Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:15:17.412Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:20:17.414Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:25:17.420Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:30:17.421Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:35:17.422Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:40:17.425Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:45:17.428Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:50:17.429Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T00:55:17.430Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:00:17.433Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:05:17.434Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:10:17.435Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:15:17.437Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:20:17.438Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:25:17.440Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:30:17.441Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:35:17.443Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:40:17.445Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:45:17.447Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:50:17.452Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T01:55:17.452Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:00:17.454Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:05:17.455Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:10:17.456Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:15:17.457Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:20:17.463Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:25:17.464Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:30:17.465Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:35:17.466Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:40:17.467Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:45:17.469Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:50:17.471Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T02:55:17.472Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:00:17.479Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:05:17.481Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:10:17.482Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:15:17.483Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:20:17.488Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:25:17.489Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:30:17.490Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:35:17.496Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:40:17.498Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:45:17.499Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:50:17.502Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T03:55:17.505Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:00:17.505Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:05:17.507Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:10:17.508Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:15:17.512Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:20:17.513Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:25:17.517Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:30:17.518Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:35:17.520Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:40:17.521Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:45:17.523Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:50:17.524Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T04:55:17.525Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:00:17.528Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:05:17.529Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:10:17.531Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:15:17.532Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:20:17.534Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:25:17.537Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:30:17.537Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:35:17.538Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:40:17.539Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:45:17.541Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:50:17.544Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T05:55:17.548Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:00:17.563Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:05:17.564Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:10:17.565Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:15:17.569Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:20:17.570Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:25:17.572Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:30:17.574Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:35:17.577Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:40:17.577Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:45:17.578Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:50:17.579Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T06:55:17.580Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:00:17.580Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:05:17.586Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:10:17.588Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:15:17.590Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:20:17.596Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:25:17.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:30:17.599Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:35:17.600Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:40:17.601Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:45:17.605Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:50:17.606Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T07:55:17.609Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:00:17.610Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:05:17.612Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:10:17.615Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:15:17.617Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:20:17.618Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:25:17.619Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:30:17.619Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:35:17.621Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:40:17.623Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:45:17.627Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:50:17.629Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T08:55:17.630Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:00:17.632Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:05:17.635Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:10:17.636Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:15:17.640Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:20:17.640Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:25:17.646Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:30:17.648Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:35:17.651Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:40:17.659Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:45:17.660Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:50:17.662Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T09:55:17.666Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:00:17.667Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:05:17.668Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:10:17.669Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:15:17.670Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:20:17.671Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:25:17.672Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:30:17.675Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:35:17.676Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:40:17.678Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:45:17.682Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:50:17.690Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T10:55:17.691Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:00:17.695Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:05:17.696Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:10:17.697Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:15:17.700Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:20:17.706Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:25:17.706Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:30:17.709Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:35:17.710Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:40:17.711Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:45:17.713Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:50:17.715Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T11:55:17.717Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T12:00:17.720Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T12:05:17.721Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T12:10:17.722Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T12:15:17.723Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:10:16.354Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:15:16.357Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:20:16.362Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:25:16.366Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:30:16.366Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:35:16.368Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:40:16.370Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:45:16.370Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:50:16.375Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T17:55:16.377Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:00:16.386Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:05:16.388Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:10:16.390Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:15:16.392Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:20:16.393Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:25:16.399Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:30:16.400Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:35:16.402Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:40:16.404Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:45:16.407Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:50:16.409Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T18:55:16.411Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:00:16.412Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:05:16.414Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:10:16.416Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:15:16.416Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:20:16.420Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:25:16.424Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:30:16.425Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:35:16.427Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:40:16.427Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:45:16.428Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:50:16.429Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T19:55:16.431Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:00:16.436Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:05:16.438Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:10:16.442Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:15:16.448Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:20:16.449Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:25:16.450Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:30:16.451Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:35:16.452Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:40:16.454Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:45:16.456Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:50:16.457Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T20:55:16.465Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:00:16.466Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:05:16.467Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:10:16.476Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:15:16.478Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:20:16.478Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:25:16.479Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:30:16.481Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:35:16.490Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:40:16.491Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:45:16.492Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:50:16.499Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T21:55:16.501Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:00:16.503Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:05:16.505Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:10:16.510Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:15:16.514Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:20:16.517Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:25:16.518Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:30:16.520Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:35:16.520Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:40:16.524Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:45:16.526Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:50:16.527Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T22:55:16.528Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:00:16.531Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:05:16.532Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:10:16.539Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:15:16.541Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:20:16.542Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:25:16.543Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:30:16.546Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:35:16.549Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:40:16.550Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:45:16.552Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:50:16.553Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-02T23:55:16.555Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:00:16.556Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:05:16.557Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:10:16.558Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:15:16.560Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:20:16.561Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:25:16.566Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:30:16.567Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:35:16.569Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:40:16.570Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:45:16.572Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:50:16.572Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T00:55:16.573Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:00:16.574Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:05:16.575Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:10:16.576Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:15:16.578Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:20:16.579Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:25:16.582Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:30:16.586Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:35:16.587Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:40:16.589Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:45:16.590Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:50:16.592Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T01:55:16.593Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:00:16.595Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:05:16.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:10:16.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:15:16.598Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:20:16.599Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:25:16.600Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:30:16.610Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:35:16.611Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:40:16.612Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:45:16.613Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:50:16.615Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T02:55:16.616Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:00:16.618Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:05:16.623Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:10:16.624Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:15:16.626Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:20:16.630Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:25:16.631Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:30:16.632Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:35:16.637Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:40:16.638Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:45:16.640Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:50:16.641Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T03:55:16.643Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:00:16.644Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:05:16.645Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:10:16.647Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:15:16.648Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:20:16.648Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:25:16.650Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:30:16.651Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:35:16.653Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:40:16.654Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:45:16.655Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:50:16.656Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T04:55:16.660Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:00:16.666Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:05:16.668Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:10:16.668Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:15:16.670Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:20:16.671Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:25:16.672Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:30:16.675Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:35:16.676Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:40:16.678Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:45:16.678Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:50:16.680Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T05:55:16.681Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:00:16.682Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:05:16.685Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:10:16.687Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:15:16.689Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:20:16.690Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:25:16.691Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:30:16.693Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:35:16.693Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:40:16.694Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:45:16.695Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:50:16.696Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T06:55:16.698Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:00:16.699Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:05:16.699Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:10:16.701Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:15:16.702Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:20:16.703Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:25:16.704Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:30:16.706Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:35:16.707Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:40:16.711Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:45:16.712Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:50:16.713Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T07:55:16.714Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:00:16.715Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:05:16.717Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:10:16.718Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:15:16.719Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:20:16.720Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:25:16.725Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:30:16.725Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:35:16.726Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:40:16.728Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:45:16.729Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:50:16.731Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T08:55:16.733Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:00:16.734Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:05:16.737Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:10:16.739Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:15:16.740Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:20:16.742Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:25:16.743Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:30:16.746Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:35:16.747Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:40:16.750Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:45:16.752Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:50:16.752Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T09:55:16.753Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:00:16.754Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:05:16.755Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:10:16.757Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:15:16.763Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:20:16.765Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:25:16.766Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:30:16.768Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:35:16.771Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:40:16.773Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:45:16.774Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:50:16.780Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T10:55:16.781Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:00:16.783Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:05:16.785Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:10:16.787Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:15:16.788Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:20:16.789Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:25:16.791Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:30:16.792Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:35:16.793Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:40:16.794Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:45:16.796Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:50:16.798Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T11:55:16.800Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:00:16.803Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:05:16.804Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:10:16.805Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:15:16.806Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:20:16.809Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:25:16.816Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:30:16.816Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:35:16.819Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:40:16.820Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:45:16.824Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:50:16.824Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T12:55:16.826Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:00:16.827Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:05:16.828Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:10:16.830Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:15:16.831Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:20:16.832Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:25:16.832Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:30:16.838Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:35:16.839Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:40:16.842Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:45:16.843Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:50:16.844Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T13:55:16.845Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:00:16.845Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:05:16.850Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:10:16.852Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:15:16.857Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:20:16.862Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:25:16.864Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:30:16.865Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:35:16.866Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:40:16.867Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:45:16.868Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:50:16.869Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T14:55:16.870Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:00:16.872Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:05:16.875Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:10:16.876Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:15:16.878Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:20:16.880Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:25:16.882Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:30:16.883Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:35:16.885Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:40:16.887Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:45:16.889Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:50:16.890Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T15:55:16.892Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:00:16.894Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:05:16.897Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:10:16.900Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:15:16.901Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:20:16.902Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:25:16.910Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:30:16.911Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:35:16.912Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:40:16.914Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:45:16.915Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:50:16.916Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T16:55:16.918Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:00:16.920Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:05:16.922Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:10:16.923Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:15:16.925Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:20:16.929Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:25:16.930Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:30:16.932Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:35:16.938Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:40:16.941Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:45:16.944Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-04-03T17:50:16.945Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.9
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.10.3
+             Version Sha: af866591ee60485f05d6e32dd63dde93df686dfb
+
+==> Vault server started! Log data will stream in below:
+
+2022-05-16T20:32:05.810Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-05-16T20:32:05.898Z [INFO]  core: Initializing versionTimestamps for core
+2022-05-16T20:32:49.178Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-05-16T20:32:49.179Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-05-16T20:32:49.180Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:5000000000, ElectionTimeout:5000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc00053d180), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc000709260), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-05-16T20:32:49.180Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-05-16T20:32:49.180Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader=
+2022-05-16T20:32:49.180Z [INFO]  core: vault is unsealed
+2022-05-16T20:32:49.180Z [INFO]  core: entering standby mode
+2022-05-16T20:32:49.286Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-05-16T20:32:49.287Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-05-16T20:32:49.287Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-05-16T20:32:54.290Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-05-16T20:32:55.343Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader=
+2022-05-16T20:32:55.343Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=6
+2022-05-16T20:32:55.344Z [INFO]  storage.raft: election won: tally=1
+2022-05-16T20:32:55.344Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-05-16T20:32:55.347Z [INFO]  core: acquired lock, enabling active operation
+2022-05-16T20:32:55.358Z [INFO]  core: post-unseal setup starting
+2022-05-16T20:32:55.359Z [INFO]  core: loaded wrapping token key
+2022-05-16T20:32:55.359Z [INFO]  core: Recorded vault version: vault version=1.10.3 upgrade time="2022-05-16 20:32:55.359085651 +0000 UTC"
+2022-05-16T20:32:55.359Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-05-16T20:32:55.360Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-05-16T20:32:55.360Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-05-16T20:32:55.360Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-05-16T20:32:55.360Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-05-16T20:32:55.360Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-05-16T20:32:55.361Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-05-16T20:32:55.361Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-05-16T20:32:55.361Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-05-16T20:32:55.362Z [INFO]  rollback: starting rollback manager
+2022-05-16T20:32:55.362Z [INFO]  core: restoring leases
+2022-05-16T20:32:55.362Z [INFO]  identity: entities restored
+2022-05-16T20:32:55.362Z [INFO]  identity: groups restored
+2022-05-16T20:32:55.362Z [INFO]  core: starting raft active node
+2022-05-16T20:32:55.362Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s}" reconcile_interval=0s
+2022-05-16T20:32:55.363Z [INFO]  expiration: lease restore complete
+2022-05-16T20:32:55.363Z [INFO]  core: usage gauge collection is disabled
+2022-05-16T20:32:55.364Z [INFO]  core: post-unseal setup complete
+2022-05-16T20:33:55.365Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T20:39:05.366Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T20:44:15.373Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T20:49:25.375Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T20:54:35.377Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T20:59:45.378Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:04:55.379Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:10:05.381Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:15:15.383Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:20:25.385Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:25:35.386Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:30:45.388Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:35:55.389Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:41:05.391Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:46:15.393Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:51:25.396Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T21:56:35.398Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:01:45.400Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:06:55.403Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:12:05.404Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:17:15.411Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:22:25.413Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:27:35.415Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:32:45.422Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-16T22:37:55.424Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T01:42:35.622Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T01:47:45.625Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T01:52:55.626Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T01:58:05.628Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T02:03:15.631Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-17T02:08:25.636Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault shutdown triggered
+2022-05-17T02:13:14.788Z [INFO]  core: marked as sealed
+2022-05-17T02:13:14.788Z [INFO]  core: pre-seal teardown starting
+2022-05-17T02:13:15.290Z [INFO]  core: stopping raft active node
+2022-05-17T02:13:15.290Z [INFO]  rollback: stopping rollback manager
+2022-05-17T02:13:15.290Z [INFO]  core: pre-seal teardown complete
+2022-05-17T02:13:15.292Z [ERROR] core: unlocking HA lock failed: error="cannot find peer"
+2022-05-17T02:13:15.292Z [ERROR] storage.raft.raft-net: failed to accept connection: error="Raft RPC layer closed"
+2022-05-17T02:13:15.292Z [INFO]  core: stopping cluster listeners
+2022-05-17T02:13:15.292Z [INFO]  core.cluster-listener: forwarding rpc listeners stopped
+2022-05-17T02:13:15.484Z [INFO]  core.cluster-listener: rpc listeners successfully shut down
+2022-05-17T02:13:15.484Z [INFO]  core: cluster listeners successfully shut down
+2022-05-17T02:13:15.485Z [INFO]  core: vault is sealed
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.9
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.10.3
+             Version Sha: af866591ee60485f05d6e32dd63dde93df686dfb
+
+==> Vault server started! Log data will stream in below:
+
+2022-05-19T22:31:51.911Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-05-19T22:31:52.239Z [INFO]  core: Initializing versionTimestamps for core
+2022-05-19T22:34:26.853Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-05-19T22:34:26.853Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-05-19T22:34:26.854Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:5000000000, ElectionTimeout:5000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc0007e49a0), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc0007289c0), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-05-19T22:34:26.854Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-05-19T22:34:26.855Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader=
+2022-05-19T22:34:26.855Z [INFO]  core: vault is unsealed
+2022-05-19T22:34:26.855Z [INFO]  core: entering standby mode
+2022-05-19T22:34:34.757Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader=
+2022-05-19T22:34:34.757Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=7
+2022-05-19T22:34:34.759Z [INFO]  storage.raft: election won: tally=1
+2022-05-19T22:34:34.759Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-05-19T22:34:34.760Z [INFO]  core: acquired lock, enabling active operation
+2022-05-19T22:34:34.770Z [INFO]  core: post-unseal setup starting
+2022-05-19T22:34:34.771Z [INFO]  core: loaded wrapping token key
+2022-05-19T22:34:34.771Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-05-19T22:34:34.772Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-05-19T22:34:34.773Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-05-19T22:34:34.773Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-05-19T22:34:34.773Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-05-19T22:34:34.773Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-05-19T22:34:34.773Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-05-19T22:34:34.774Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-05-19T22:34:34.774Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-05-19T22:34:34.775Z [INFO]  core: restoring leases
+2022-05-19T22:34:34.775Z [INFO]  rollback: starting rollback manager
+2022-05-19T22:34:34.777Z [INFO]  expiration: lease restore complete
+2022-05-19T22:34:34.777Z [INFO]  identity: entities restored
+2022-05-19T22:34:34.777Z [INFO]  identity: groups restored
+2022-05-19T22:34:34.777Z [INFO]  core: starting raft active node
+2022-05-19T22:34:34.777Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s}" reconcile_interval=0s
+2022-05-19T22:34:34.778Z [INFO]  core: usage gauge collection is disabled
+2022-05-19T22:34:34.778Z [INFO]  core: post-unseal setup complete
+2022-05-19T22:35:34.778Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T22:40:44.795Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T22:45:54.796Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T22:51:04.797Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T22:56:14.799Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:01:24.802Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:06:34.803Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:11:44.804Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:16:54.804Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:22:04.807Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:27:14.808Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:32:24.809Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:37:34.810Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:42:44.813Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:47:54.816Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:53:04.817Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-19T23:58:14.818Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:03:24.819Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:08:34.820Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:13:44.821Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:18:54.821Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:24:04.822Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:29:14.824Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:34:24.827Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:39:34.830Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:44:44.831Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:49:54.832Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T00:55:04.833Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:00:14.834Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:05:24.837Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:10:34.837Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:15:44.838Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:20:54.839Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:26:04.839Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-20T01:31:14.841Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.9
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.10.3
+             Version Sha: af866591ee60485f05d6e32dd63dde93df686dfb
+
+==> Vault server started! Log data will stream in below:
+
+2022-05-27T17:19:34.787Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-05-27T17:19:34.874Z [INFO]  core: Initializing versionTimestamps for core
+2022-05-27T17:20:31.046Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-05-27T17:20:31.047Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-05-27T17:20:31.047Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:5000000000, ElectionTimeout:5000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc00069d730), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc0007b69c0), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-05-27T17:20:31.048Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-05-27T17:20:31.048Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader=
+2022-05-27T17:20:31.048Z [INFO]  core: vault is unsealed
+2022-05-27T17:20:31.048Z [INFO]  core: entering standby mode
+2022-05-27T17:20:31.148Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-05-27T17:20:31.149Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-05-27T17:20:31.149Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-05-27T17:20:36.150Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-05-27T17:20:38.481Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-05-27T17:20:38.482Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-05-27T17:20:38.482Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-05-27T17:20:40.198Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-05-27T17:20:40.198Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-05-27T17:20:40.494Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader=
+2022-05-27T17:20:40.494Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=8
+2022-05-27T17:20:40.496Z [INFO]  storage.raft: election won: tally=1
+2022-05-27T17:20:40.496Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-05-27T17:20:40.497Z [INFO]  core: acquired lock, enabling active operation
+2022-05-27T17:20:40.508Z [INFO]  core: post-unseal setup starting
+2022-05-27T17:20:40.509Z [INFO]  core: loaded wrapping token key
+2022-05-27T17:20:40.509Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-05-27T17:20:40.509Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-05-27T17:20:40.510Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-05-27T17:20:40.510Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-05-27T17:20:40.510Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-05-27T17:20:40.511Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-05-27T17:20:40.511Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-05-27T17:20:40.512Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-05-27T17:20:40.512Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-05-27T17:20:40.512Z [INFO]  rollback: starting rollback manager
+2022-05-27T17:20:40.512Z [INFO]  core: restoring leases
+2022-05-27T17:20:40.513Z [INFO]  identity: entities restored
+2022-05-27T17:20:40.513Z [INFO]  identity: groups restored
+2022-05-27T17:20:40.513Z [INFO]  core: starting raft active node
+2022-05-27T17:20:40.513Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s}" reconcile_interval=0s
+2022-05-27T17:20:40.513Z [INFO]  expiration: lease restore complete
+2022-05-27T17:20:40.513Z [INFO]  core: usage gauge collection is disabled
+2022-05-27T17:20:40.514Z [INFO]  core: post-unseal setup complete
+2022-05-27T17:21:40.517Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:26:50.517Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:32:00.519Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:37:10.520Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:42:20.528Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:47:30.529Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:52:40.549Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T17:57:50.551Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:03:00.557Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:08:10.563Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:13:20.565Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:18:30.568Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:23:40.568Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:28:50.569Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:34:00.617Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:39:10.619Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:44:20.631Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:49:30.632Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:54:40.635Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-27T18:59:50.641Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault reload triggered
+==> Vault shutdown triggered
+2022-05-27T19:03:34.967Z [INFO]  core: marked as sealed
+2022-05-27T19:03:34.968Z [INFO]  core: pre-seal teardown starting
+2022-05-27T19:03:35.469Z [INFO]  core: stopping raft active node
+2022-05-27T19:03:35.469Z [INFO]  rollback: stopping rollback manager
+2022-05-27T19:03:35.469Z [INFO]  core: pre-seal teardown complete
+2022-05-27T19:03:35.471Z [ERROR] core: unlocking HA lock failed: error="cannot find peer"
+2022-05-27T19:03:35.471Z [ERROR] storage.raft.raft-net: failed to accept connection: error="Raft RPC layer closed"
+2022-05-27T19:03:35.471Z [INFO]  core: stopping cluster listeners
+2022-05-27T19:03:35.471Z [INFO]  core.cluster-listener: forwarding rpc listeners stopped
+2022-05-27T19:03:35.563Z [INFO]  core.cluster-listener: rpc listeners successfully shut down
+2022-05-27T19:03:35.563Z [INFO]  core: cluster listeners successfully shut down
+2022-05-27T19:03:35.563Z [INFO]  core: vault is sealed
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.9
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.10.3
+             Version Sha: af866591ee60485f05d6e32dd63dde93df686dfb
+
+==> Vault server started! Log data will stream in below:
+
+2022-05-30T21:20:57.589Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-05-30T21:20:57.894Z [INFO]  core: Initializing versionTimestamps for core
+2022-05-30T21:21:34.714Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-05-30T21:21:34.714Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-05-30T21:21:34.715Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:5000000000, ElectionTimeout:5000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc0007d4d90), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc000bc4e10), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-05-30T21:21:34.715Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-05-30T21:21:34.715Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader=
+2022-05-30T21:21:34.715Z [INFO]  core: vault is unsealed
+2022-05-30T21:21:34.715Z [INFO]  core: entering standby mode
+2022-05-30T21:21:43.688Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader=
+2022-05-30T21:21:43.689Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=9
+2022-05-30T21:21:43.690Z [INFO]  storage.raft: election won: tally=1
+2022-05-30T21:21:43.690Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-05-30T21:21:43.691Z [INFO]  core: acquired lock, enabling active operation
+2022-05-30T21:21:43.701Z [INFO]  core: post-unseal setup starting
+2022-05-30T21:21:43.702Z [INFO]  core: loaded wrapping token key
+2022-05-30T21:21:43.702Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-05-30T21:21:43.703Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-05-30T21:21:43.703Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-05-30T21:21:43.703Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-05-30T21:21:43.704Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-05-30T21:21:43.704Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-05-30T21:21:43.704Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-05-30T21:21:43.705Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-05-30T21:21:43.705Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-05-30T21:21:43.705Z [INFO]  rollback: starting rollback manager
+2022-05-30T21:21:43.705Z [INFO]  core: restoring leases
+2022-05-30T21:21:43.705Z [INFO]  identity: entities restored
+2022-05-30T21:21:43.705Z [INFO]  identity: groups restored
+2022-05-30T21:21:43.705Z [INFO]  core: starting raft active node
+2022-05-30T21:21:43.705Z [INFO]  expiration: lease restore complete
+2022-05-30T21:21:43.705Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s}" reconcile_interval=0s
+2022-05-30T21:21:43.706Z [INFO]  core: usage gauge collection is disabled
+2022-05-30T21:21:43.706Z [INFO]  core: post-unseal setup complete
+2022-05-30T21:22:43.708Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:27:53.709Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:33:03.712Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:38:13.712Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:43:23.713Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:48:33.715Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:53:43.716Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T21:58:53.718Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:04:03.719Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:09:13.720Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:14:23.722Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:19:33.723Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:24:43.726Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:29:53.728Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:35:03.730Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:40:13.735Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:45:23.737Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:50:33.739Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T22:55:43.740Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:00:53.742Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:06:03.742Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:11:13.743Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:16:23.744Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:21:33.744Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:26:43.745Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:31:53.747Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:37:03.749Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:42:13.750Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:47:23.751Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:52:33.752Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-30T23:57:43.753Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:02:53.755Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:08:03.765Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:13:13.767Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:18:23.768Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:23:33.770Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:28:43.771Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:33:53.774Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:39:03.776Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:44:13.778Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:49:23.779Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:54:33.781Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T00:59:43.781Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:04:53.782Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:10:03.784Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:15:13.788Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:20:23.790Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:25:33.792Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:30:43.793Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:35:53.794Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:41:03.798Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:46:13.800Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:51:23.801Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T01:56:33.805Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:01:43.808Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:06:53.813Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:12:03.814Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:17:13.819Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:22:23.821Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:27:33.821Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:32:43.822Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:37:53.823Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:43:03.824Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:48:13.825Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:53:23.827Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T02:58:33.829Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:03:43.835Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:08:53.836Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:14:03.837Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:19:13.837Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:24:23.838Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:29:33.839Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:34:43.840Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:39:53.842Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:45:03.843Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:50:13.844Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T03:55:23.845Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:00:33.847Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:05:43.848Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:10:53.849Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:16:03.850Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:21:13.855Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:26:23.857Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:31:33.859Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:36:43.865Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:41:53.866Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:47:03.867Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:52:13.868Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T04:57:23.868Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:02:33.869Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:07:43.871Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:12:53.872Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:18:03.872Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:23:13.874Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:28:23.876Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:33:33.877Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:38:43.877Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:43:53.878Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:49:03.884Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:54:13.887Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T05:59:23.888Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:04:33.889Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:09:43.890Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:14:53.891Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:20:03.892Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:25:13.893Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:30:23.897Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:35:33.899Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:40:43.901Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:45:53.902Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:51:03.913Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T06:56:13.915Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:01:23.918Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:06:33.919Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:11:43.920Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:16:53.922Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:22:03.922Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:27:13.923Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:32:23.925Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:37:33.927Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:42:43.929Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:47:53.931Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:53:03.932Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T07:58:13.933Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:03:23.934Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:08:33.936Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:13:43.937Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:18:53.938Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:24:03.938Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:29:13.940Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:34:23.942Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:39:33.942Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:44:43.944Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:49:53.945Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T08:55:03.947Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:00:13.948Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:05:23.953Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:10:33.954Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:15:43.955Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:20:53.958Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:26:03.959Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:31:13.961Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:36:23.961Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:41:33.963Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:46:43.966Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:51:53.969Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T09:57:03.970Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:02:13.971Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:07:23.975Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:12:33.975Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:17:43.976Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:22:53.977Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:28:03.988Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:33:13.989Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:38:23.991Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:43:33.992Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:48:43.994Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:53:53.996Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T10:59:03.997Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:04:13.999Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:09:24.000Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:14:34.000Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:19:44.002Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:24:54.003Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:30:04.004Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:35:14.006Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:40:24.007Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:45:34.007Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:50:44.009Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T11:55:54.010Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T12:52:20.792Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T12:57:30.793Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:03:08.418Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:08:18.421Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:13:28.422Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:18:38.423Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:23:48.425Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:28:58.426Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:34:08.428Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:39:18.428Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:44:28.432Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:49:38.434Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:54:48.435Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T15:59:58.436Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:05:08.437Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:10:18.439Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:15:28.441Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:20:38.442Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:25:48.444Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:30:58.445Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:36:08.449Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:41:18.450Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:46:28.451Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:51:38.452Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T16:56:48.453Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:01:58.455Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:07:08.457Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:12:18.459Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:17:28.459Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:22:38.461Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:27:48.469Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:32:58.472Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:38:08.473Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:43:18.474Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:48:28.475Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:53:38.476Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T17:58:48.478Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:03:58.479Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:09:08.480Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:14:18.483Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:19:28.484Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:24:38.491Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:29:48.492Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:34:58.495Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:40:08.497Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:45:18.499Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:50:28.501Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T18:55:38.503Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:00:48.505Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:05:58.507Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:11:08.514Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:16:18.516Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:21:28.519Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:26:38.520Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:31:48.522Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:36:58.524Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:42:08.525Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:47:18.526Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:52:28.530Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T19:57:38.537Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:02:48.540Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:07:58.545Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:13:08.547Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:18:18.548Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:23:28.550Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:28:38.554Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:33:48.555Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:38:58.561Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:44:08.566Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:49:18.567Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:54:28.569Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T20:59:38.570Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:04:48.572Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:09:58.573Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:15:08.575Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:20:18.581Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:25:28.583Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:30:38.585Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:35:48.587Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:40:58.588Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:46:08.592Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:51:18.594Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T21:56:28.595Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T22:01:38.597Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T22:06:48.599Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-05-31T22:11:58.601Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T14:58:59.258Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:04:09.263Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:09:19.264Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:14:29.265Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:19:39.265Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:24:49.266Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:29:59.269Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:35:09.270Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:40:19.271Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:45:29.272Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:50:39.274Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T15:55:49.276Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:00:59.277Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:06:09.281Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:11:19.283Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:16:29.284Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:21:39.285Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:26:49.286Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:31:59.287Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:37:09.294Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:42:19.297Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:47:29.298Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:52:39.300Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T16:57:49.303Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:02:59.304Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:08:09.310Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:13:19.311Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:18:29.313Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:23:39.314Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:28:49.318Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:33:59.320Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:39:09.321Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:44:19.323Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:49:29.327Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:54:39.328Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T17:59:49.332Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:04:59.335Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:10:09.345Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:15:19.345Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:20:29.346Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:25:39.349Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:30:49.350Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:35:59.353Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-01T18:41:09.354Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.9
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.10.3
+             Version Sha: af866591ee60485f05d6e32dd63dde93df686dfb
+
+==> Vault server started! Log data will stream in below:
+
+2022-06-08T14:07:22.736Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-06-08T14:07:23.078Z [INFO]  core: Initializing versionTimestamps for core
+2022-06-08T14:08:49.346Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-06-08T14:08:49.346Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-06-08T14:08:49.346Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:5000000000, ElectionTimeout:5000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc0007e6cb0), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc00072e9c0), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-06-08T14:08:49.347Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-06-08T14:08:49.347Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader=
+2022-06-08T14:08:49.347Z [INFO]  core: vault is unsealed
+2022-06-08T14:08:49.347Z [INFO]  core: entering standby mode
+2022-06-08T14:08:49.450Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-06-08T14:08:49.450Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-06-08T14:08:49.450Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-06-08T14:08:54.450Z [WARN]  core.cluster-listener: no TLS config found for ALPN: ALPN=["req_fw_sb-act_v1"]
+2022-06-08T14:08:55.900Z [ERROR] core: error during forwarded RPC request: error="rpc error: code = Unavailable desc = connection error: desc = \"transport: Error while dialing remote error: tls: internal error\""
+2022-06-08T14:08:55.900Z [ERROR] core: forward request error: error="error during forwarding RPC request"
+2022-06-08T14:08:56.002Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader=
+2022-06-08T14:08:56.003Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=10
+2022-06-08T14:08:56.004Z [INFO]  storage.raft: election won: tally=1
+2022-06-08T14:08:56.004Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-06-08T14:08:56.006Z [INFO]  core: acquired lock, enabling active operation
+2022-06-08T14:08:56.019Z [INFO]  core: post-unseal setup starting
+2022-06-08T14:08:56.021Z [INFO]  core: loaded wrapping token key
+2022-06-08T14:08:56.021Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-06-08T14:08:56.022Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-06-08T14:08:56.022Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-06-08T14:08:56.022Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-06-08T14:08:56.022Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-06-08T14:08:56.023Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-06-08T14:08:56.023Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-06-08T14:08:56.024Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-06-08T14:08:56.024Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-06-08T14:08:56.025Z [INFO]  rollback: starting rollback manager
+2022-06-08T14:08:56.025Z [INFO]  core: restoring leases
+2022-06-08T14:08:56.025Z [INFO]  identity: entities restored
+2022-06-08T14:08:56.025Z [INFO]  identity: groups restored
+2022-06-08T14:08:56.026Z [INFO]  core: starting raft active node
+2022-06-08T14:08:56.026Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s}" reconcile_interval=0s
+2022-06-08T14:08:56.026Z [INFO]  expiration: lease restore complete
+2022-06-08T14:08:56.027Z [INFO]  core: usage gauge collection is disabled
+2022-06-08T14:08:56.028Z [INFO]  core: post-unseal setup complete
+2022-06-08T14:09:56.028Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:15:06.029Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:20:16.030Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:25:26.037Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:30:36.043Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:35:46.049Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:40:56.049Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:46:06.064Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:51:16.066Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T14:56:26.069Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:01:36.070Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:06:46.081Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:11:56.082Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:17:06.083Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:22:16.085Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:27:26.085Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:32:36.088Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:37:46.088Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:42:56.090Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:48:06.091Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:53:16.092Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T15:58:26.093Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:03:36.094Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:08:46.095Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:13:56.097Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:19:06.098Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:24:16.099Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:29:26.101Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:34:36.116Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:39:46.118Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:44:56.119Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:50:06.121Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T16:55:16.123Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T17:00:26.127Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-06-08T17:05:36.136Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+==> Vault server configuration:
+
+             Api Address: https://172.16.1.101:8200
+                     Cgo: disabled
+         Cluster Address: https://172.16.1.101:8201
+              Go Version: go1.17.12
+              Listener 1: tcp (addr: "172.16.1.101:8200", cluster address: "172.16.1.101:8201", max_request_duration: "1m30s", max_request_size: "33554432", tls: "disabled")
+               Log Level: info
+                   Mlock: supported: true, enabled: true
+           Recovery Mode: false
+                 Storage: raft (HA available)
+                 Version: Vault v1.11.2, built 2022-07-29T09:48:47Z
+             Version Sha: 3a8aa12eba357ed2de3192b15c99c717afdeb2b5
+
+==> Vault server started! Log data will stream in below:
+
+2022-08-22T17:05:00.877Z [INFO]  proxy environment: http_proxy="" https_proxy="" no_proxy=""
+2022-08-22T17:05:00.964Z [INFO]  core: Initializing version history cache for core
+2022-08-22T17:05:44.709Z [INFO]  core.cluster-listener.tcp: starting listener: listener_address=172.16.1.101:8201
+2022-08-22T17:05:44.710Z [INFO]  core.cluster-listener: serving cluster requests: cluster_listen_address=172.16.1.101:8201
+2022-08-22T17:05:44.710Z [INFO]  storage.raft: creating Raft: config="&raft.Config{ProtocolVersion:3, HeartbeatTimeout:15000000000, ElectionTimeout:15000000000, CommitTimeout:50000000, MaxAppendEntries:64, BatchApplyCh:true, ShutdownOnRemove:true, TrailingLogs:0x2800, SnapshotInterval:120000000000, SnapshotThreshold:0x2000, LeaderLeaseTimeout:2500000000, LocalID:\"node1\", NotifyCh:(chan<- bool)(0xc0010d8850), LogOutput:io.Writer(nil), LogLevel:\"DEBUG\", Logger:(*hclog.interceptLogger)(0xc0007f8060), NoSnapshotRestoreOnStart:true, skipStartup:false}"
+2022-08-22T17:05:44.710Z [INFO]  storage.raft: initial configuration: index=1 servers="[{Suffrage:Voter ID:node1 Address:0.0.0.0:8201}]"
+2022-08-22T17:05:44.711Z [INFO]  storage.raft: entering follower state: follower="Node at 172.16.1.101:8201 [Follower]" leader-address= leader-id=
+2022-08-22T17:05:44.711Z [WARN]  storage.raft: heartbeat timeout reached, starting election: last-leader-addr= last-leader-id=
+2022-08-22T17:05:44.711Z [INFO]  storage.raft: entering candidate state: node="Node at 172.16.1.101:8201 [Candidate]" term=11
+2022-08-22T17:05:44.711Z [INFO]  core: vault is unsealed
+2022-08-22T17:05:44.711Z [INFO]  core: entering standby mode
+2022-08-22T17:05:44.711Z [INFO]  storage.raft: election won: tally=1
+2022-08-22T17:05:44.711Z [INFO]  storage.raft: entering leader state: leader="Node at 172.16.1.101:8201 [Leader]"
+2022-08-22T17:05:44.713Z [INFO]  core: acquired lock, enabling active operation
+2022-08-22T17:05:44.725Z [INFO]  core: post-unseal setup starting
+2022-08-22T17:05:44.726Z [INFO]  core: loaded wrapping token key
+2022-08-22T17:05:44.727Z [INFO]  core: Recorded vault version: vault version=1.11.2 upgrade time="2022-08-22 17:05:44.726839029 +0000 UTC" build date=2022-07-29T09:48:47Z
+2022-08-22T17:05:44.728Z [INFO]  core: successfully setup plugin catalog: plugin-directory=""
+2022-08-22T17:05:44.728Z [INFO]  core: successfully mounted backend: type=system path=sys/
+2022-08-22T17:05:44.728Z [INFO]  core: successfully mounted backend: type=identity path=identity/
+2022-08-22T17:05:44.729Z [INFO]  core: successfully mounted backend: type=nomad path=nomad/
+2022-08-22T17:05:44.729Z [INFO]  core: successfully mounted backend: type=consul path=consul/
+2022-08-22T17:05:44.729Z [INFO]  core: successfully mounted backend: type=kv path=secret/
+2022-08-22T17:05:44.729Z [INFO]  core: successfully mounted backend: type=cubbyhole path=cubbyhole/
+2022-08-22T17:05:44.730Z [INFO]  core: successfully enabled credential backend: type=token path=token/ namespace="ID: root. Path: "
+2022-08-22T17:05:44.730Z [INFO]  core: successfully enabled credential backend: type=userpass path=userpass/ namespace="ID: root. Path: "
+2022-08-22T17:05:44.730Z [INFO]  core: restoring leases
+2022-08-22T17:05:44.730Z [INFO]  rollback: starting rollback manager
+2022-08-22T17:05:44.731Z [INFO]  identity: entities restored
+2022-08-22T17:05:44.731Z [INFO]  identity: groups restored
+2022-08-22T17:05:44.731Z [INFO]  core: starting raft active node
+2022-08-22T17:05:44.732Z [INFO]  storage.raft: starting autopilot: config="&{false 0 10s 24h0m0s 1000 0 10s false redundancy_zone upgrade_version}" reconcile_interval=0s
+2022-08-22T17:05:44.731Z [INFO]  expiration: lease restore complete
+2022-08-22T17:05:44.733Z [INFO]  core: usage gauge collection is disabled
+2022-08-22T17:05:44.733Z [INFO]  core: post-unseal setup complete
+2022-08-22T17:06:44.739Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:11:54.741Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:17:04.745Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:22:14.745Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:27:24.748Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:32:34.750Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:37:44.752Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:42:54.753Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:48:04.762Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:53:14.765Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T17:58:24.766Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:03:34.768Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:08:44.773Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:13:54.775Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:19:04.777Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:24:14.779Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:29:24.781Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:34:34.783Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:39:44.785Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:44:54.787Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:50:04.790Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T18:55:14.791Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:00:24.792Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:05:34.794Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:10:44.795Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:15:54.797Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:21:04.799Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:26:14.808Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:31:24.810Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:36:34.812Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending
+2022-08-22T19:41:44.813Z [WARN]  core.raft: skipping new raft TLS config creation, keys are pending

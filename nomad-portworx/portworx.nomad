@@ -5,6 +5,7 @@ job "portworx" {
   group "portworx" {
     count = 3
 
+
     constraint {
       operator  = "distinct_hosts"
       value     = "true"
@@ -14,7 +15,7 @@ job "portworx" {
     restart {
       attempts = 3
       delay    = "30s"
-      interval = "5m"
+      interval = "15m"
       mode     = "fail"
     }
 
@@ -23,11 +24,14 @@ job "portworx" {
       max_parallel     = 1
       health_check     = "checks"
       min_healthy_time = "10s"
-      healthy_deadline = "5m"
+      healthy_deadline = "20m"
+      progress_deadline = "21m"
       auto_revert      = true
       canary           = 0
-      stagger          = "30s"
+      stagger          = "300s"
     }
+
+
 
     network {
       port "portworx" {
@@ -35,9 +39,11 @@ job "portworx" {
       }
     }
 
+
     task "px-node" {
       driver = "docker"
-      kill_timeout = "120s"   # allow portworx 2 min to gracefully shut down
+      user = "root"
+      kill_timeout = "600s"   # allow portworx 2 min to gracefully shut down
       kill_signal = "SIGTERM" # use SIGTERM to shut down the nodes
 
       # consul service check for portworx instances
@@ -47,8 +53,8 @@ job "portworx" {
           port     = "portworx"
           type     = "http"
           path     = "/health"
-          interval = "10s"
-          timeout  = "2s"
+          interval = "15s"
+          timeout  = "5s"
         }
       }
 
@@ -64,16 +70,10 @@ job "portworx" {
         VAULT_TOKEN                        = "s.bDedFc6AEyZiywySWAQkmsLg"
       }
 
-      # CSI Driver conifg
-      csi_plugin {
-        id        = "portworx"
-        type      = "monolith"
-        mount_dir = "/var/lib/osd/csi"
-      } 
 
       # container config
       config {
-        image        = "portworx/oci-monitor:2.9.1.3"
+        image        = "portworx/oci-monitor:2.11.2"
         network_mode = "host"
         ipc_mode = "host"
         privileged = true
@@ -107,6 +107,14 @@ job "portworx" {
         ]
 
       }
+
+      # CSI Driver config
+      csi_plugin {
+        id        = "portworx"
+        type      = "monolith"
+        mount_dir = "/var/lib/csi"
+        health_timeout = "30m"
+      } 
 
       # resource config
       resources {
