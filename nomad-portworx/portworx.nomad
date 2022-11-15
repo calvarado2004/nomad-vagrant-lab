@@ -21,14 +21,14 @@ job "portworx" {
 
     # how to handle upgrades of portworx instances
     update {
-      max_parallel     = 1
-      health_check     = "checks"
-      min_healthy_time = "10s"
-      healthy_deadline = "20m"
+      max_parallel      = 1
+      health_check      = "checks"
+      min_healthy_time  = "10s"
+      healthy_deadline  = "20m"
       progress_deadline = "21m"
-      auto_revert      = true
-      canary           = 0
-      stagger          = "300s"
+      auto_revert       = true
+      canary            = 0
+      stagger           = "300s"
     }
 
 
@@ -41,10 +41,10 @@ job "portworx" {
 
 
     task "px-node" {
-      driver = "docker"
-      user = "root"
+      driver       = "docker"
+      user         = "root"
       kill_timeout = "600s"   # allow portworx 2 min to gracefully shut down
-      kill_signal = "SIGTERM" # use SIGTERM to shut down the nodes
+      kill_signal  = "SIGTERM" # use SIGTERM to shut down the nodes
 
       # consul service check for portworx instances
       service {
@@ -62,7 +62,8 @@ job "portworx" {
       env {
         AUTO_NODE_RECOVERY_TIMEOUT_IN_SECS = "1500"
         PX_TEMPLATE_VERSION                = "V4"
-        CSI_ENDPOINT                       = "unix://var/lib/osd/csi/csi.sock"
+        #CSI_ENDPOINT                       = "unix://var/lib/osd/csi/csi.sock"
+        CSI_ENDPOINT			                 = "unix://var/lib/csi/csi.sock"
         PORTWORX_AUTH_SYSTEM_KEY           = "hX5E8+CG6uSEGB2yxiHJ/1shxxyGm3Ho/JAWkgqz+QHDy/Qd/mi4ZS4ymHFVtlzM"
         PORTWORX_AUTH_JWT_SHAREDSECRET     = "N/56bhufvvUSRM1WVAKjHw8ygALPaRQLxddtJl+UgBuafRdtaeehcXwMDmNgOh1U"
         PORTWORX_AUTH_JWT_ISSUER           = "nomad-a.us-east-1"
@@ -73,15 +74,15 @@ job "portworx" {
 
       # container config
       config {
-        image        = "portworx/oci-monitor:2.11.2"
+        image        = "portworx/oci-monitor:2.12.0"
         network_mode = "host"
-        ipc_mode = "host"
-        privileged = true
+        ipc_mode     = "host"
+        privileged   = true
         
         # configure your parameters below
         # do not remove the last parameter (needed for health check)
         args = [
-            "-c", "nomad-portworx-vagrant",
+            "-c", "nomad-portworx-vagrant-02",
             "-b",
             "-d", "eth1",
             "-m", "eth1",
@@ -103,17 +104,19 @@ job "portworx" {
             "/etc/systemd/system:/etc/systemd/system",
             "/var/run/log:/var/run/log",
             "/var/log:/var/log",
-            "/var/run/dbus:/var/run/dbus"
+            "/var/run/dbus:/var/run/dbus",
+            "/local/csi:/local/csi"
         ]
 
       }
 
       # CSI Driver config
       csi_plugin {
-        id        = "portworx"
-        type      = "monolith"
-        mount_dir = "/var/lib/csi"
+        id             = "portworx"
+        type           = "monolith"
+        mount_dir      = "/var/lib/csi"
         health_timeout = "30m"
+        stage_publish_base_dir = "/var/lib/csi/publish"
       } 
 
       # resource config

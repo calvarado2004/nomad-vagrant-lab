@@ -10,8 +10,15 @@ job "mysql-server" {
       access_mode     = "single-node-writer"
       type            = "csi"
       read_only       = false
-      source          = "volume-3"
+      source          = "volume-1"
+      per_alloc       = false
+
+      mount_options {
+        fs_type     = "ext4"
+      }
+
     }
+
 
     network {
       port "db" {

@@ -104,7 +104,10 @@ sudo apt-get update && sudo apt-get install vault
 * Enter into nomad-a-1 and unseal Vault
 
 ```
-sudo /vagrant/nomad-vault/start-vault.sh
+
+cd /vagrant/nomad-vault 
+
+sudo ./start-vault.sh
 
 open http://172.16.1.101:8200
 
@@ -145,3 +148,15 @@ The customized Portworx job is the file /vagrant/nomad-portworx/portworx.nomad m
 
 
 ![Nomad and Portworx](/images/PX-Encrypted.png)
+
+# Portworx Security
+
+Enter into one node and perform the following, the Shared secret is the one that we defined on the portworx.nomad job file:
+
+```
+pxctl auth token generate --auth-config=/vagrant/nomad-portworx/authconfig.yaml --issuer nomad-a.us-east-1  --token-duration=1y --shared-secret N/56bhufvvUSRM1WVAKjHw8ygALPaRQLxddtJl+UgBuafRdtaeehcXwMDmNgOh1U   --output /vagrant/nomad-portworx/self-signed-token.txt
+
+pxctl context create admin --token=$(cat /vagrant/nomad-portworx/self-signed-token.txt)
+
+pxctl status
+```
