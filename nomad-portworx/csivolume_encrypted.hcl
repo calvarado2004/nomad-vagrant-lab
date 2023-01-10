@@ -20,13 +20,14 @@ mount_options {
 }
 
 secrets {
- auth-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNhbWFydGluZXpAcHVyZXN0b3JhZ2UuY29tIiwiZXhwIjoxNjk4Mzc3MTkwLCJncm91cHMiOlsiKiJdLCJpYXQiOjE2NjY4NDExOTAsImlzcyI6Im5vbWFkLWEudXMtZWFzdC0xIiwibmFtZSI6IkNhcmxvcyBBbHZhcmFkbyIsInJvbGVzIjpbInN5c3RlbS5hZG1pbiJdLCJzdWIiOiJjYW1hcnRpbmV6QHB1cmVzdG9yYWdlLmNvbS9jYW1hcnRpbmV6In0.LFYx00lR_YmYBai-jExpE7reNo3kLVPukGaL6sybzNo"
+ auth-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNhbWFydGluZXpAcHVyZXN0b3JhZ2UuY29tIiwiZXhwIjoxNzA0OTA0NDg2LCJncm91cHMiOlsiKiJdLCJpYXQiOjE2NzMzNjg0ODYsImlzcyI6Im5vbWFkLWEudXMtZWFzdC0xIiwibmFtZSI6IkNhcmxvcyBBbHZhcmFkbyIsInJvbGVzIjpbInN5c3RlbS5hZG1pbiJdLCJzdWIiOiJjYW1hcnRpbmV6QHB1cmVzdG9yYWdlLmNvbS9jYW1hcnRpbmV6In0.YJi0km1EqdLz6uPi0Qkn1zDDcL1076hQlzlWyHGoBhs"
+
 }
 
 parameters {
   secure = "true"
   io_profile = "db_remote"
-  io_priority = "high"
+  priority_io = "high"
   repl = "3"
   cow_ondemand = "false"
   secret_key = "px-cluster-key"
